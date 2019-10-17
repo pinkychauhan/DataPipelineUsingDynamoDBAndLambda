@@ -1,0 +1,20 @@
+{
+  "Records": [
+    {
+      "messageId": "54dd0b57-b21e-8vt1-bd88-01bbb068jn98",
+      "receiptHandle": "MessageReceiptHandle",
+      "body": "{ \"timestamp\": \"2019-02-02 13:46:32.000000\",\"userId\": \"6D3256\",\"info\": \"xyz\"}",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "SentTimestamp": "1523232000000",
+        "SenderId": "123456789012",
+        "ApproximateFirstReceiveTimestamp": "1523232000001"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "7b270e59b47fk87s553787216d55d91d",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:us-east-1:123456789012:MySQSQueue",
+      "awsRegion": "us-east-1"
+    }
+  ]
+}
